@@ -49,8 +49,8 @@ Welcome to the *AI Neural Language Tutor* — an interactive, multilingual, VR-t
 ### Quick Start
 bash
 # Clone the repository
-git clone https://github.com/your-username/ai-neural-language-tutor.git
-cd ai-neural-language-tutor
+git clone https://github.com/Abdul811-ops/Cortextalk.git
+cd cortextalk
 
 # Install dependencies
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ streamlit run ai_tutor.py
 
 
 # Run the app
-streamlit run ai_tutor.py
+streamlit run cortextalk.py
 
 
 ---
