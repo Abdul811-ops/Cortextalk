@@ -59,19 +59,6 @@ pip install -r requirements.txt
 streamlit run ai_tutor.py
 
 
-### Alternative Installation with Virtual Environment
-bash
-# Create virtual environment
-python -m venv venv
-
-# Activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the app
 streamlit run ai_tutor.py
