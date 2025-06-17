@@ -1,5 +1,4 @@
 streamlit
-speechrecognition
-pyttsx3
-torch
+SpeechRecognition
 numpy
+pyttsx3
